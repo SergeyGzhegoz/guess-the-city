@@ -4,7 +4,7 @@ import json
 import random
 
 app = Flask(__name__)
-
+# test
 logging.basicConfig(level=logging.INFO)
 
 cities = {
